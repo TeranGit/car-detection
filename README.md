@@ -26,7 +26,7 @@ A Car Detection OpenCV Python project finds its applications in traffic control,
 ### Installation and Usage
 1.- Clone the repository to your local machine.
 
-git clone https://github.com/your-username/real-time-car-detection-opencv-python.git
+git clone https://github.com/TeranGit/car-detection.git
 
 2.- Navigate to the project directory.
 
