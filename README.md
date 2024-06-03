@@ -17,13 +17,12 @@ A Car Detection OpenCV Python project finds its applications in traffic control,
 - License: Contains the license information for the project.
 - README.md: This file, providing an overview and details of the project.
 - data/
-    - Cars_On_Highway.mp4: Sample video file for detection.
     - Video1.avi: Another sample video file.
     - video2.avi: Additional sample video file.
+    - video3.mp4: Sample video file for detection.
 - cars.xml: Haarcascade file for car detection.
 - main.py: The main Python script to run the car detection system.
 - requirements.txt: File listing the dependencies required to run the project.
-- .gitignore: File specifying which files and directories to ignore in the Git repository.
 
 ### Installation and Usage
 1.- Clone the repository to your local machine.
@@ -31,8 +30,6 @@ A Car Detection OpenCV Python project finds its applications in traffic control,
 git clone https://github.com/TeranGit/car-detection.git
 
 2.- Navigate to the project directory.
-
-cd real-time-car-detection-opencv-python
 
 3.- Install the required dependencies.
 
