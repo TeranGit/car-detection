@@ -44,7 +44,7 @@ python main.py
 Car detection is one of the widely used features by companies and organizations these days. This technology uses computer vision to detect different types of vehicles in video or in real time via a camera. It finds its applications in traffic control, car tracking, creating parking sensors, and many more.
 
 ### Inquiries
-If you have any questions or suggestions about Real-Time Car Detection OpenCV Python With Source Code, please feel free to leave a comment below.
+If you have any questions or suggestions about Real-Time Car Detection OpenCV Python With Source Code, please feel free to leave a e-mail frubengarcia@gmail.com
 
 ### Acknowledgements
 Special thanks to:
