@@ -5,6 +5,8 @@ The Real-Time Car Detection OpenCV Python project was developed using Python and
 
 A Car Detection OpenCV Python project finds its applications in traffic control, car tracking, creating parking sensors, and many more. In this project, we will learn how to build a car tracking system in Python for both recorded and live cam streamed videos.
 
+![DemoImage](demo.png)
+
 ### Features
 - Real-time vehicle detection
 - Application in traffic control
